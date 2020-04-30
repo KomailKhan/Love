@@ -140,8 +140,8 @@ jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇
 jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
 print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;92mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "komail"
+CorrectPassword = "khan"
 
 loop = 'true'
 while (loop == 'true'):
